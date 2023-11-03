@@ -1,8 +1,8 @@
 # Site settings
 title: P.L.N
-#baseurl: "/ap"
+baseurl: "/nguyen/"
 url: "https://linh-phuong.github.io"
-#google_analytics: # Tracking ID, e.g. "UA-000000-01"
+domain: linh-phuong.github.io
 
 # Author
 author:
