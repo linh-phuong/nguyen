@@ -7,7 +7,7 @@ I am interested in using mathematical model to understand ecological dynamics an
 
 <br/>
 
-# Affilication
+# Affiliation
 Postdoctoral researcher \\
 Theoretical Ecology and Evolution Group (Rudolf Rohr) \\
 University of Fribourg, Switzerland \\
