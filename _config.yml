@@ -9,34 +9,13 @@ author:
   name: Phuong Linh Nguyen
   desc: Researcher in Ecology and Evolution
   email: linh.phuong.nguyen@evobio.eu
-  selfie: assets/img/profile.jpg
+  selfie: assets/img/profile.png
 
 # social
 social:
   email: true
-  #behance:
-  #bitbucket:
-  #dribbble:
-  #facebook: Test
-  #flickr:
   github: linh-phuong
-  #google_plus:
-  #instagram:
-  #keybase:
-  #linkedin: https://www.linkedin.com/in/kssim/ 
-  #pinterest:
-  #reddit:
-  #soundcloud:
-  #stack_exchange:
-  #steam:
-  #tumblr:
-  #gitlab:
-  #twitter: Test
-  #vimeo:
-  #wordpress:
-  #youtube:
-  #default_txt: "Follow On"
-
+ 
 # Build settings
 markdown: kramdown
 
