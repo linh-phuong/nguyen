@@ -25,7 +25,7 @@ Switzerland
 <br/>
 
 # Publications
-* PL Nguyen, F. Pomati, and R. Rohr. Inferring coexistence likelihood in changing environments from ecological time series. 2025. PNAS (in press)
+* PL Nguyen, F. Pomati, and R. Rohr. Inferring coexistence likelihood in changing environments from ecological time series. 2025. PNAS, 10.1073/pnas.2417905122.
 * PL Nguyen and CS Gokhale. On multiple infections by parasites with complex life cycles. 2024. Oikos, 10.1111/oik.10493
 * PL Nguyen, M Costa, and N Loeuille. Implications of drift and rapid evolution on negative niche construction. bioRxiv 2021.04.26.441094
 * PL Nguyen, M van Baalen. On the difficult evolutionary transition from free-living lifestyle to obligate symbiosis. 2020. PloS one,15(7)
